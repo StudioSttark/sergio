@@ -57,14 +57,14 @@ a {
     -o-transition-duration: .2s;
 }
 a:hover {
-    color: #000;
+    color: #333;
 }
 ::selection {
-    color: #000;
+    color: #333;
     background: none repeat scroll 0 0 #ff9900;
 }
 ::-moz-selection {
-    color:#000;
+    color:#333;
     background: none repeat scroll 0 0 #ff9900;
 }
 * {
@@ -125,7 +125,7 @@ input[type="submit"] {
     color: #a6a6a6;
     font-weight: 400;
     font-family: 'Oswald', sans-serif;
-    color: #000;
+    color: #333;
     font-size: 16px;
     text-transform: uppercase;
     padding: 8px 18px;
@@ -166,7 +166,7 @@ input[type="text"], input[type="email"], input[type="search"], input[type="passw
 h1, h2, h3, h4, h5 {
     font-weight: 400;
     font-family: 'Oswald', sans-serif;
-    color: #000;
+    color: #333;
     text-transform: uppercase;
 }
 h1 {
@@ -228,7 +228,7 @@ sup {
     background-color: #FFF;
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
-    color: #000;
+    color: #333;
     font-size: 16px;
     text-transform: uppercase;
     margin: 20px 0;
@@ -384,7 +384,7 @@ sup {
     position: fixed;
     z-index: 100;
     color: #f8f8f8;
-    background: #000000;
+    background: #333333;
     width: 200px;
     left: 0px;
     top: 0px;
@@ -404,7 +404,7 @@ sup {
     text-align: left;
     outline: none;
     margin: 0 30px;
-    border-bottom: 1px solid #333333;
+    border-bottom: 1px solid #747474;
     font-family: 'Oswald', sans-serif;
     font-size: 14px;
     font-weight: 300;
@@ -457,7 +457,7 @@ sup {
     margin: 0 26px 0 30px
 }
 .social .google-plus {
-    color: #ff9900;
+    color: #ff6800;
 }
 .copyright {
     position: absolute;
@@ -489,7 +489,7 @@ sup {
 }
 .content:last-child {
     width: 1720px;
-    background-color: #000;
+    background-color: #333;
 }
 .content {
     width: 804px;
@@ -669,7 +669,7 @@ a.totop-link {
 }
 .skills-con .col-6:hover .chart .percent {
     font-size: 45px;
-    color: #000;
+    color: #333;
     transition-duration: .1s;
     -moz-transition-duration: .1s;
     -webkit-transition-duration: .1s;
@@ -700,7 +700,7 @@ a.totop-link {
     font-weight: 400;
     position: absolute;
     left: -93px;
-    color: #000;
+    color: #333;
     top: -19px
 }
 .progress-value span:after {
@@ -709,7 +709,7 @@ a.totop-link {
 }
 .progress-bar-description {
     font-weight: 500;
-    color: #000;
+    color: #333;
     margin: 0 0 0 90px;
     font-size: 14px;
 }
@@ -777,11 +777,11 @@ a.totop-link {
 }
 .experience-con span {
     font-size: 16px;
-    color: #000;
+    color: #333;
 }
 .experience-con strong {
     font-weight: 500;
-    color: #000;
+    color: #333;
     text-transform: uppercase;
     display: inline-block;
     margin: 0 0 5px 0
@@ -797,7 +797,7 @@ a.totop-link {
 }
 .experience-details:hover i {
     font-size: 73px;
-    color: #000;
+    color: #333;
 }
 .experience-details:hover .col-3 {
     width: 29%;
@@ -819,11 +819,11 @@ a.totop-link {
 }
 .education-con span {
     font-size: 16px;
-    color: #000;
+    color: #333;
 }
 .education-con strong {
     font-weight: 500;
-    color: #000;
+    color: #333;
     text-transform: uppercase;
     display: inline-block;
     margin: 0 0 5px 0
@@ -839,7 +839,7 @@ a.totop-link {
 }
 .education-details:hover i {
     font-size: 73px;
-    color: #000;
+    color: #333;
 }
 .education-details:hover .col-3 {
     width: 29%;
@@ -859,7 +859,7 @@ a.totop-link {
     color: #ff9900
 }
 .contact-details strong {
-    color: #000;
+    color: #333;
     display: inline-block;
     font-weight: 500;
     text-transform: uppercase;
@@ -889,7 +889,7 @@ a.totop-link {
     -o-transition-duration: .2s;
 }
 .contact-text:hover i {
-    color: #000;
+    color: #333;
 }
 .contact-social i {
     color: #797979;
@@ -908,7 +908,7 @@ a.totop-link {
     -o-transition-duration: .2s;
 }
 .contact-social i:hover {
-    color: #000;
+    color: #333;
 }
 .contact-form {
 }
@@ -937,8 +937,8 @@ a.totop-link {
     line-height: 100px;
 }
 .introduction-end-con h3 strong {
-    border-top: 1px solid #333333;
-    border-bottom: 1px solid #333333;
+    border-top: 1px solid #747474;
+    border-bottom: 1px solid #747474;
     padding: 10px 0;
     color: #ff9900;
     font-weight: normal;
@@ -1024,7 +1024,7 @@ iframe, embed, object {
     border: 0;
 }
 .blog-list:hover .title-divider {
-    background-color: #000;
+    background-color: #333;
 }
 .blog-list-details {
     margin: 20px 0 0 0
@@ -1036,7 +1036,7 @@ iframe, embed, object {
     line-height: 25px
 }
 .blog-list-details h3 a {
-    color: #000;
+    color: #333;
 }
 .date {
     color: #909090;
@@ -1123,8 +1123,8 @@ iframe, embed, object {
     padding: 2px 11px 3px;
 }
 .tagcloud a:hover {
-    background: #000;
-    border: 1px solid #000;
+    background: #333;
+    border: 1px solid #333;
     color: #FFF;
 }
 .pagination {
@@ -1156,10 +1156,10 @@ iframe, embed, object {
     width: 50px;
 }
 .pagerblock li a:hover, .pagerblock li a.current {
-    border: 2px solid #000;
+    border: 2px solid #333;
 }
 .pagerblock li a i {
-    color: #000;
+    color: #333;
     font-size: 22px;
     line-height: 35px;
 }
@@ -1191,7 +1191,7 @@ iframe, embed, object {
     line-height: 25px
 }
 .blog-share {
-    border-bottom: 2px solid #000;
+    border-bottom: 2px solid #333;
     border-top: 1px solid #dfdfdf;
     clear: both;
     float: none;
