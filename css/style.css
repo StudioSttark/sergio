@@ -937,15 +937,15 @@ a.totop-link {
     line-height: 100px;
 }
 .introduction-end-con h3 strong {
-    border-top: 1px solid #747474;
-    border-bottom: 1px solid #747474;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
     padding: 10px 0;
-    color: #ff9900;
+    color: #fff;
     font-weight: normal;
 }
 .introduction-end-con .rotate {
     font-weight: 300;
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 55px;
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
