@@ -383,8 +383,8 @@ sup {
 .menu {
     position: fixed;
     z-index: 100;
-    color: #f8f8f8;
-    background: #333333;
+    color: #fff;
+    background: #ff9900;
     width: 200px;
     left: 0px;
     top: 0px;
@@ -404,7 +404,7 @@ sup {
     text-align: left;
     outline: none;
     margin: 0 30px;
-    border-bottom: 1px solid #747474;
+    border-bottom: 1px solid #fff;
     font-family: 'Oswald', sans-serif;
     font-size: 14px;
     font-weight: 300;
@@ -420,7 +420,7 @@ sup {
     font-weight: 400
 }
 .menu nav a:hover {
-    color: #ff9900;
+    color: #333333;
     text-decoration: none;
 }
 .menu nav a span:nth-child(2) {
@@ -447,17 +447,17 @@ sup {
     -o-transition-duration: .2s;
 }
 .social a:hover {
-    color: #fff;
+    color: #333333;
 }
 .social .facebook {
-    color: #ffc815;
+    color: #fff;
 }
 .social .twitter {
-    color: #ff9c0b;
+    color: #fff;
     margin: 0 26px 0 30px
 }
 .social .google-plus {
-    color: #ff6800;
+    color: #fff;
 }
 .copyright {
     position: absolute;
@@ -466,7 +466,7 @@ sup {
     font-family: 'Oswald', sans-serif;
     font-size: 11px;
     padding: 30px;
-    color: #747474;
+    color: #fff;
     line-height: 18px;
     letter-spacing: 1px
 }
